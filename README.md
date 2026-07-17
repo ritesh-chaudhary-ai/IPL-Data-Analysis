@@ -13,10 +13,10 @@
 ## 📸 Project Preview
 
 ### Team Performance Analysis
-![Team Performance](team-performance.png)
+![Team Performance](team-performance.png.png)
 
 ### IPL Data Visualization
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
 
 ---
 
