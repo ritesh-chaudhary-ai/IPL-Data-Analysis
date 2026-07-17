@@ -1,29 +1,61 @@
-# 🏏 IPL Data Analysis
+# 🏏 IPL 2022 Data Analysis
 
-### Data Analysis project using Python, Pandas, NumPy, Matplotlib and Seaborn.
+### 📊 Exploratory Data Analysis (EDA) on IPL 2022 using Python & Jupyter Notebook
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 ## 📌 Project Overview
 
-This project performs Exploratory Data Analysis (EDA) on the IPL dataset to discover insights about teams, players, matches, and overall tournament performance using Python.
+This project performs Exploratory Data Analysis (EDA) on the IPL 2022 dataset to discover meaningful insights about teams, players, match results, batting performance, bowling performance, and tournament statistics.
+
+The analysis is performed using Python libraries inside a Jupyter Notebook.
 
 ---
 
-## ✨ Features
+## 📂 Files
 
-- 📊 Data Cleaning
-- 📈 Exploratory Data Analysis (EDA)
-- 🏏 Team Performance Analysis
-- 👑 Player Statistics
-- 📉 Data Visualization
-- 📋 Insights & Conclusions
+- 📒 `Python_project_IPL_Capstone_project.ipynb`
+- 📄 `README.md`
+
+---
+
+## 📊 Dataset Information
+
+The dataset contains match-level information including:
+
+- Match Date
+- Venue
+- Stage
+- Team 1
+- Team 2
+- Toss Winner
+- Toss Decision
+- First Innings Score
+- Second Innings Score
+- Match Winner
+- Winning Margin
+- Player of the Match
+
+---
+
+## ✨ Analysis Performed
+
+- Team Performance Analysis
+- Match Winner Analysis
+- Toss Impact Analysis
+- Venue Analysis
+- Player of the Match Analysis
+- Highest Team Scores
+- Best Batting Performances
+- Best Bowling Performances
+- Winning Margin Analysis
+- Key Player Performance
 
 ---
 
@@ -33,22 +65,26 @@ This project performs Exploratory Data Analysis (EDA) on the IPL dataset to disc
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
 
-## 📂 Project Structure
+## 🚀 How to Run
 
+```bash
+git clone https://github.com/ritesh-chaudhary-ai/IPL-Data-Analysis.git
 ```
-IPL-Data-Analysis/
-│── IPL_Data_Analysis.ipynb
-│── README.md
-│── dataset.csv
-```
+
+Open the notebook in Jupyter Notebook or VS Code and run all cells.
 
 ---
 
 ## 👨‍💻 Author
 
 **Ritesh Chaudhary**
+
+B.Tech CSE (AI & ML)
+
+---
+
+⭐ If you like this project, don't forget to Star this repository.
