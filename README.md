@@ -12,11 +12,12 @@
 
 ## 📸 Project Preview
 
-### Team Performance Analysis
+### IPL Data Visualization
+### Team Performance Analysis  
+
+![Dashboard Preview](dashboard-preview.png.png)
 ![Team Performance](team-performance.png.png)
 
-### IPL Data Visualization
-![Dashboard Preview](dashboard-preview.png.png)
 
 ---
 
